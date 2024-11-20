@@ -1,3 +1,5 @@
+import { useState } from "react"
+
 const ErrorExample = () => {
   let count = 0
   const handleClick = () => {
